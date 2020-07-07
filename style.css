@@ -1,0 +1,31 @@
+.bg-img{
+    background-image: url("hot-gadgets/bg-1.png");
+    background-repeat: no-repeat;
+   background-position: center;
+   
+    
+}
+.carousel-item{
+    padding:20px 40px;
+
+}
+.see-more{
+    color: goldenrod;
+}
+.smart-phone{
+    padding:10px 10px;
+    text-align: center;
+}
+.footer-img{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+}
+.underline{
+    width: 130px;
+    background-image: linear-gradient(#F1B443,#F18543);
+    height: 8px !important;
+    border-radius: 80px;
+}
+.catagories{
+    margin: 40px;
+}
